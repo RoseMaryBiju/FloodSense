@@ -7,19 +7,17 @@
 
 FloodSense reimagines disaster response by combining computer vision with agentic AI into a fully autonomous pipeline. Unlike traditional flood monitoring tools that stop at detection, FloodSense goes further — it segments flood extent, classifies damage severity, computes a composite risk score using live weather data, identifies nearby shelters, and automatically dispatches WhatsApp alerts to residents in the affected area — all triggered by a single image upload with zero human intervention.
 
-> Research paper submitted to **Journal of Systems and Software (JSS)** — Elsevier, Special Issue: AI for Software Architecture (April 2026).
-
 ---
 
 ## Demo
 
-![Flood Segmentation Result](assets/FS%20pic1.png)
+![Flood Segmentation Result](FS%20pic1.png)
 
-![Risk Analysis & Weather](assets/FS%20pic%202.png)
+![Risk Analysis & Weather](FS%20pic%202.png)
 
 ![Nearest Shelters](FS%20pic%203.png)
 
-![AI Situational Report](assets/FS%20pic%204.png)
+![AI Situational Report](FS%20pic%204.png)
 
 ---
 
@@ -183,11 +181,6 @@ This project directly contributes to **SDG 13: Climate Action** by enabling fast
 
 ---
 
-## Author
-
-**[Your Name]**
-#📧 [your email]
-#🔗 [LinkedIn URL]
 
 ---
 
