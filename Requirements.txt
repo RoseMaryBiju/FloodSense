@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+opencv-python
+Pillow
+requests
+pandas
+twilio
+openai
