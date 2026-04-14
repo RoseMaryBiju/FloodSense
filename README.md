@@ -13,7 +13,7 @@ FloodSense reimagines disaster response by combining computer vision with agenti
 
 ## Demo
 
-![Flood Segmentation Result](assets/FS%20pic%201.png)
+![Flood Segmentation Result](assets/FS%20pic1.png)
 
 ![Risk Analysis & Weather](assets/FS%20pic%202.png)
 
@@ -186,6 +186,14 @@ This project directly contributes to **SDG 13: Climate Action** by enabling fast
 ## Author
 
 **[Your Name]**
+#📧 [your email]
+#🔗 [LinkedIn URL]
+
+---
+
+## License
+
+MIT License — feel free to use, modify, and build on this project.
 #📧 [your email]
 #🔗 [LinkedIn URL]
 
