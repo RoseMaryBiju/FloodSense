@@ -17,7 +17,7 @@ FloodSense reimagines disaster response by combining computer vision with agenti
 
 ![Risk Analysis & Weather](assets/FS%20pic%202.png)
 
-![Nearest Shelters](assets/FS%20pic%203.png)
+![Nearest Shelters](FS%20pic%203.png)
 
 ![AI Situational Report](assets/FS%20pic%204.png)
 
