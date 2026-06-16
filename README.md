@@ -19,6 +19,8 @@ FloodSense reimagines disaster response by combining computer vision with agenti
 
 ![AI Situational Report](FS%20pic%204.png)
 
+![Automated WhatsApp Alerts](FS%20pic%205.png)
+
 ---
 
 ## How It Works
