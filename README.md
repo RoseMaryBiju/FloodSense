@@ -186,12 +186,7 @@ This project directly contributes to **SDG 13: Climate Action** by enabling fast
 
 ## License
 
-MIT License — feel free to use, modify, and build on this project.
+License — feel free to use, modify, and build on this project.
 #📧 rosemarybiju3@gmail.com
 #🔗 https://www.linkedin.com/in/rose-mary-biju-5b0424251/
 
----
-
-## License
-
-MIT License — feel free to use, modify, and build on this project.
